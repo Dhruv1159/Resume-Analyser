@@ -1,0 +1,10 @@
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+body {
+  padding:0px;
+  margin: 0px;
+}
